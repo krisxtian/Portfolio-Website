@@ -1,0 +1,54 @@
+.art{
+    width: 25rem;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    margin: 0 auto;
+    border-radius:50% ;
+    height: 20vh;
+}
+.dev{
+    /* justify-content: center;  */
+    display: flex;
+     align-items: center;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50%;
+}
+
+.badImage{
+    height: 100vh;
+    
+}
+
+p{
+    color:aliceblue;
+}
+
+.heading {
+    color: aliceblue;
+}
+
+.contact-heading{
+    color: aliceblue;
+    /* justify-content: center; */
+    align-items: center;
+    display: flex;
+    height: 60vh;
+}
+.contact-img{
+    align-items: center;
+    display: flex;
+    border-radius: 60%;
+    margin-top: 10%;
+}
+
+.mediaBtn{
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    outline: none;
+    border-radius: 40%;
+}
